@@ -1,0 +1,133 @@
+Banarsi Das Gupta;Male;Nov. 17, 1917;Aug. 29, 2007;Bhiwani;None;Babuji
+Birsa Munda;Male;15 November 1875;9 June 1900;Jharkhand;None;None
+Kanhu Murmu;Male;1857;1858;jharkhand;None;None
+Sahajanand Saraswati;Male;22 February 1889;25 June 1950;United Provinces;Indian academic;None
+Chandrasekhar Azad;Male;23 July 1906;27 February 1931;United Provinces;Indian activist and revolutionary freedom fighter;Azad, Chandrashekhar (alt spelling); Azad (nickname); Chandra Shekhar (birth name)
+Sachindra Nath Sanyal;Male;1893;7 February 1942;United Provinces;Indian revolutionary;None
+Manmath Nath Gupta;Male;7 Feb 1908;26 Oct 2000;United Provinces;Revolutionary;None
+Prem Krishna Khanna;Male;2 February 1894;3 August 1993;United Provinces;Revolutionary, Member of Parliament;Prem Kishan Khanna
+Rani Lakshmibai;Female;19 November 1828;18 June 1858;United Provinces;Maratha warrior queen;Manikarnika; Rani Ki Jhansi
+Mangal Pandey;Male;19 July 1827;8 April 1857;United Provinces;None;None
+Ram Prasad Bismil;Female;11 June 1897;18 December 1927;United Provinces;Revolutionary,Poet & Writer;'Ram', 'Agyat' & 'Bismil' (Pen-names)
+Madan Mohan Malaviya;Male;25 December 1861;12 November 1946;United Provinces;Indian politician;None
+Rammanohar Lohia;Male;23 March 1910;12 October 1967;United Provinces;None;None
+Ashfaqulla Khan;Male;30 January 1901;19 December 1927;United Provinces;Poet Patriot who sacrificed for his country India.;Warsi and Hasrat (pen-name)
+Lal Bahadur Shastri;Male;2 October 1905;11 January 1966;United Provinces;Prime Minister of India, Minister of External Affairs;None
+Rajendra Prasad;Male;3 December 1884;28 February 1963;Bihar;Indian politician;None
+Anugrah Narayan Sinha;Male;1887-06-18;1957-07-05;Bihar;Indian politician;None
+Jayaprakash Narayan;Male;October 11, 1902;October 8, 1979;Bihar;None;None
+Shriram Sharma;Male;September 20, 1911;June 2, 1990;United Provinces;Indian Social Reformer;None
+Baikuntha Shukla;Male;1907;1934;Bihar;Indian revolutionary;None
+Ram Dulari Sinha;Male;December 8, 1922;August 31, 1994;Bihar;Indian politician;None
+Azimullah Khan;Female;1830;1858;None;None;None
+Karyanand Sharma;Male;1901;1965;Bihar;Indian activist;None
+Ganesh Dutt;Male;1868;1943;Bihar;None;None
+Krishna Sinha;Male;1887;1961;Bihar;Indian politician;None
+Motilal Nehru;Male;6 May 1861;6 February 1931;United Provinces;Indian politician;None
+Guru Radha Kishan;Male;1925;1996;Indore;Communist, Indian Independence Activist, Social Activist;Comrade Radha Kishan Guru
+Jawaharlal Nehru;Male;14 November 1889;27 May 1964;United Provinces;1st Prime Minister of India;None
+Abul Kalam Azad;Male;11 November 1888;22 December 1958;Delhi;Indian politician;None
+Bahadur Shah Zafar;Male;24 October 1775;7 November 1862;Delhi;Mughal emperor;None
+Sikander Bakht;Male;August 24, 1918;February 23, 2004;Delhi;Indian politician;None
+Shankar Dayal Sharma;Male;19 August 1918;26 December 1999;Madhya Bharat;Indian politician;None
+Hasrat Mohani;Male;1875;1951;United Provinces;None;None
+Basawon Singh (Sinha);Male;1909;1989;Bihar;Indian politician;None
+Yamuna Karjee;Male;1898;1953;Bihar;None;None
+Yogendra Shukla;Male;1896;1966;Bihar;Indian revolutionary;None
+Sheel Bhadra Yajee;Male;1906;1996;Bihar;Indian independence activist;None
+Yadunandan Sharma;Male;1896;1975;Bihar;Indian activist;None
+Ramavriksha Benipuri;Male;1899;1968;Bihar;None;None
+Mulana Mazharul Haque;Male;1866;1930;Bihar;None;None
+Ashfaqullah;Male;30 January 1901;19 December 1927;United Provinces;Poet Patriot who sacrificed for his country India.;Warsi and Hasrat (pen-name)
+Chandrasekhar Azad;Male;23 July 1906;27 February 1931;United Provinces;Indian activist and revolutionary freedom fighter;Azad, Chandrashekhar (alt spelling); Azad (nickname); Chandra Shekhar (birth name)
+Govind Ballabh Pant;Male;10 September 1887;7 March 1961;United Provinces;None;None
+Maulana Shaukat Ali;Male;1873;4 January 1939;United Provinces;Indian activist;None
+Kamla Nehru;Female;1 August 1899;28 February 1936;United Provinces;None;None
+Mukhtar Ahmed Ansari;Male;1880;1936;United Provinces;former president of the Indian National Congress;None
+Rafi Ahmad Kidwai;Male;18 February 1894;24 October 1954;United Provinces;Indian independence activists;None
+Narendra Dev;Male;1889;1956;United Provinces;None;None
+Zakir Hussain;Male;8 February 1897;3 May 1969;United Provinces;None;None
+Ganesh Shanker Vidyarthy;Male;1890;25 March 1931;United Provinces;Indian journalist;None
+Laxmi Raman Acharya;Male;November 2, 1914;1997;United Provinces;Indian politician;None
+Ram Manohar Lohia;Male;23 March 1910;12 October 1967;United Provinces;None;None
+Yashpal;Male;1903;1976;United Provinces;Hindi writer;None
+Batukeshwar Dutt;Male;18 November 1910;20 July 1965;United Provinces;None;None
+Sukhdev Thapar;Male;May 15, 1907;March 23, 1931;United Provinces;Indian revolutionary;Shahid Sukhdev Thapar
+Shivaram Hari Rajguru;Male;August 24, 1908;February 14, 1931;United Provinces;Indian revolutionary;None
+Vijayalaksmi Pandit;Female;18 August 1900;1 December 1990;United Provinces;None;None
+Maghfoor Ahmad Ajazi;Male;March 03, 1900;1966;Bihar;None;None
+Jagjivan Ram;Male;1908-04-05;1986-07-06;Bihar;Indian politician;None
+Ram Singh;Male;February 3, 1816;None;Punjab;Indian activist;None
+Allama Iqbal;Male;9 November 1877;21 April 1938;Punjab;Indian writer and politician;None
+Lala Lajpat Rai;Male;January 28, 1865;November 17, 1928;Punjab;Indian politician;None
+Sardul Singh Caveeshar;Male;1886;1963;Punjab;Indian politician;None
+Sheikh Abdullah;Male;5 December 1905;8 September 1982;Punjab;Indian politician;None
+Khan Abdul Ghaffar Khan;Male;1890;20 January 1988;Punjab;Non-violent Pashtun spiritual and political leader;Fakhr-e Afghan Bacha Khan
+Baba Gurdit Singh;Male;1860;July 24, 1954;Punjab;None;None
+Baldev Singh;Male;1902;1961;Punjab;Indian politician;None
+Bhagat Singh;Male;28 September 1907;23 March 1931;Punjab;Indian Freedom Activist;None
+Bhai Balmukund;Male;1889;May 11, 1915;Punjab;None;None
+Bhai Parmanand;Male;4 November 1876;8 December 1947;Punjab;None;None
+Kartar Singh Sarabha;Male;24 May 1896;16 November 1915;Punjab;Indian revolutionary;None
+Kartar Singh Jhabbar;Male;1874;20 November 1962;Punjab;Sikh preacher;None
+Madan Lal Dhingra;Male;1883;1909;Punjab;None;None
+Tej Bahadur Sapru;Male;8 December 1875;20 January 1949;Punjab;Lawyer, political and social leader;None
+Sardul Singh Caveeshar;Male;1886;1963;Punjab;Indian politician;None
+Shivaram Rajguru;Male;August 24, 1908;February 14, 1931;Punjab;Indian revolutionary;None
+Sikander Hyat Khan;Male;5 June 1892;26 December 1942;Punjab;Politician;Sardar Sir Sikandar Hyat Khan
+Sukhdev;Male;May 15, 1907;March 23, 1931;Punjab;Indian revolutionary;Shahid Sukhdev Thapar
+Baba Kanshi Ram;Male;11 July 1882;15 October 1943;Punjab;None;None
+Udham Singh;Male;December 26, 1899;1940-07-31;Punjab;Indian revolutionary;None
+Shah Nawaz Khan (general);Male;24 January 1914;9 December 1983;Punjab;Army General and Member of parliament;None
+Dadabhai Naoroji;Male;4 September 1825;30 June 1917;None;Indian politician;None
+Kasturba Gandhi;Female;11 April 1869;22 February 1944;None;Wife Of Mohandas Karamchand Gandhi;Baa
+Maniben Patel;Female;3 April 1903;1990;None;Indian politician;None
+Ratnappa Kumbhar;Male;15 September 1909;23 December 1998;None;Indian politician;None
+Mahadev Desai;Male;January 1, 1892;August 15, 1942;None;None;None
+Gopal Krishna Gokhale;Male;May 9, 1866;February 19, 1915;None;Indian politician;LASAN
+Vithalbhai Patel;Male;1871;22 October 1933;None;None;None
+Ganesh Vasudev Mavlankar;Male;27 November 1888;27 February 1956;None;Indian politician;None
+Vinayak Damodar Savarkar;Male;May 28, 1883;February 26, 1966;None;Indian activsit;None
+Morarji Desai;Male;29 February 1896;10 April 1996;None;Indian politician;None
+Bhikaiji Cama;Female;24 September 1861;13 August 1936;None;None;None
+U.N. Dhebar;Male;1905;1977;None;Indian politician;None
+Shyamji Krishna Varma;Male;October 4, 1857;March 30, 1939;None;Indian revolutionary;None
+Tatya Tope;Male;1814;18 April 1859;None;Indian rebel;None
+Mahatma Jyotiba Phule;Male;1827-04-11;1890-11-28;None;None;None
+Kanhaiyalal Maneklal Munshi;Male;December 30, 1887;February 8, 1971;Gujarat;None;Munshi, Kanaiyalal Maneklal
+Kanaiyalal Maneklal Munshi;Male;December 30, 1887;February 8, 1971;None;None;Munshi, Kanaiyalal Maneklal
+Dula Bhaya Kag;Male;November 25, 1902;February 2, 1977;None;Poet;None
+Usha Mehta;Female;March 25, 1920;August 11, 2000;None;None;None
+Nana Patil;Male;3 August 1900;6 December 1976;None;Indian politician;None
+Pherozeshah Mehta;Male;August 4, 1845;November 5, 1915;None;Indian politician;None
+Vasudev Balwant Phadke;Male;4 November 1845;17 February 1883;None;None;None
+U. Muthuramalingam Thevar;Male;October 30, 1908;October 30, 1963;Tamil Nadu;Indian politician;None
+Alluri Sita Rama Raju;Male;4 July 1897;May 7, 1924;Andhra Pradesh;a great leader of the tribes;Aluri Rpia Rama Raju, Rama Chandra Raju,Manyam Veerudu
+Amarajeevi Potti Sreeramulu;Male;16 March 1901;16 December 1952;Andhra Pradesh;Indian activist;None
+Chakravarti Rajgopalachari;Male;(1878-12-10)10 December 1878;25 December 1972(1972-12-25);Tamil Nadu;Political leader;Rajaji
+Kayyar Kinhanna Rai;Male;1915-03-29;None;None;None;None
+Mathai Manjooran;Male;13 October 1912;14 January 1970;None;None;None
+Kandukuri Veeresalingam;Male;16 April 1848;27 May 1919;None;Indian writer;None
+Sarvapalli Radhakrishnan;Male;5 September 1888;17 April 1975;None;Indian philosopher and statesman;None
+Tiruppur Kumaran;Male;1904;1932;Tamil Nadu;None;None
+K. Kamaraj;Male;15 July 1903;2 October 1975;Tamil Nadu;Indian politician;None
+M. Bhakthavatsalam;Male;9 October 1897;31 January 1987;Tamil Nadu;Indian politician;None
+Tanguturi Prakasam;Male;23 August 1872;20 May 1957;Andhra Pradesh;None;None
+V.O. Chidambaram Pillai;Male;5 September 1872;18 November 1936;Tamil Nadu;None;None
+Subramanya Bharathy;Male;1882-12-11;1921-09-11;Tamil Nadu;India's Greatest Poet of 20 th Century;None
+Vanchinathan;Female;1886;June 17, 1911;Tamil Nadu;Indian independence activist;None
+Thillaiaadi Valliammai;Female;22 February 1898;22 February 1914;Tamil Nadu;South African hindu;None
+G. Subramania Iyer;Male;January 19, 1855;April 18, 1916;Tamil Nadu;Indian newspaper founder;None
+T.Sadasivam;Male;September 4, 1902;November 22, 1997;Tamil Nadu;Indian journalist;None
+O. P. Ramaswamy Reddiyar;Male;1895;1960;Madras presidency;None;None
+P. Kakkan;Male;18 June 1908;23 December 1981;Madras presidency;Indian politician;None
+A. Vaidyanatha Iyer;Male;1890;1955;Tamil Nadu;Indian activist;None
+R. Chidambara Bharathi;Male;5 June 1905;30 April 1987;Tamil Nadu;Indian politician;None
+Subramanya Siva;Male;4 October 1884;1925-07-23;Tamil Nadu;Indian activist;None
+C. Subramaniam;Male;January 30, 1910;November 7, 2000;Tamil Nadu;Indian politician;None
+V. Kalyanasundaram;Male;1883;1953;None;None;None
+Kittur Chennamma;Female;1778;1829;Karnataka;None;None
+Kalki Krishnamurthy;Male;September 9, 1899;December 5, 1954;Tamil Nadu;None;None
+V. Subbiah;Male;February 7, 1911;1993;Puducherry;Indian politician;None
+Lakshmi Sahgal;Female;24 October 1914;23 July 2012;Madras presidency;Indian commander;Captain Lakshmi
+Subramanya Bharathi;Male;1882-12-11;1921-09-11;Tamil Nadu;India's Greatest Poet of 20 th Century;None
